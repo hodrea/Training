@@ -1,0 +1,16 @@
+You can send your github link with username and it can be accessed by another person eg github.com/hodrea
+
+Learning things: attributes, 
+Attributes 
+- Provide additional info in HTML elements.
+- Specified in the start tag
+
+Image
+- place image in same folder where html documents are
+- alt gives more info about the image and appears when image is deleted
+
+Assignment
+Come up 
+home page (services, about page, words, paragraph, hr, images, footer)
+about page (4 pages including yesterdays concept)
+Services page (4 pages including yesterdays concept) images with brief description

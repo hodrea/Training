@@ -1,0 +1,16 @@
+index should be the homepage html doc in your projects by default
+save project name in lowercase for best results
+
+sublime text
+document name enables browser to know that its a html doc
+<!DOCTYPE html> enables computer to know that its a html doc
+if your code isnt colored in sublime text there's sth wrong with it
+eg 
+<! DOCTYPE html> VS <!DOCTYPE html>
+
+learn about
+formatting elements
+eg strong, bold, break, hr, footer
+
+ASSIGNMENT
+Create a portfolio website using the things learnt today
