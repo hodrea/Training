@@ -1,0 +1,28 @@
+Under Meta
+- viewport enables your website to be scalable ie resize itself based on different device screens
+
+Section
+- divides contents in your webpage
+
+Align
+- text-align
+
+font-family
+font-size
+
+Formating
+- italics
+- emphasize
+- small
+- mark
+- del
+- insert
+- sub and sup (represent chemical elements)
+
+GITHUB
+- Arrange session based on folders eg session 1 folder with assignment 1 and readme,
+session 2 folder with 
+
+ASSIGNMENT
+Create new page with sections 2 and images
+Create an about page, home page(text), blog, services
