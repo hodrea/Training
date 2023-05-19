@@ -1,0 +1,77 @@
+#bodycss{
+	text-align:center;
+	background-color:white;
+	color:black;
+	background-image:url(uefa.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:150vh;
+}
+
+#bodycss2{
+	text-align:center;
+	background-color:white;
+	color:black;
+	background-image:url(uefa2.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:150vh;
+}
+
+#bodycss3{
+	text-align:center;
+	background-color:white;
+	color:black;
+	background-image:url(uefa3.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:150vh;
+}
+
+#bodycss4{
+	text-align:center;
+	background-color:white;
+	color:black;
+	background-image:url(uefa4.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:150vh;
+}
+
+.headingcss{
+	font-family:fantasy;
+}
+
+.divcss{
+	background-color:rgba(255, 255, 255, 0.8);
+	border:1px solid black;
+}
+
+h1{
+	font-size:40px;
+}
+
+h2{
+	font-size:30px;
+}
+
+p{
+	text-align:center;
+	font-size:20px;
+}
+
+table{
+	width:100%;
+}
+
+img{
+	width:200px;
+	height:200px;
+}
+address{
+	font-size:20px;
+}
