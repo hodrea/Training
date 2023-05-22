@@ -1,0 +1,30 @@
+favicon
+page
+titles
+lists
+tables
+
+Favicons
+- small image displayed next to the title
+- favicon sites 
+	https://www.favicon.cc
+	https://www.icons8.com
+
+lists
+- Types of list
+ordered <ul> <li></li></ul>
+unordered <ol><li></li></ol>
+
+<dl> description list
+<dt></dt>
+<dd></dd>
+</dl>
+
+NB: DT follows DD. DT gives the heading while DD gives more information
+
+Tables
+
+assignment
+Website including todays topics and images
+index, home, about (emphasize on tables ,lists)
+
