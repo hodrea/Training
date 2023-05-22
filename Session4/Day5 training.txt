@@ -1,0 +1,34 @@
+/Quotations, comments, colors, linked images
+
+Quotations
+- <blockquote cite="http://www..com"></blockquote>
+
+Short quote
+- <q>
+
+HTML abbreviations
+-<abbr></abbr>
+- creates footnotes of the abbreviated words and it also underlines it in a dotted line.
+
+Address
+<address></address>
+
+Site
+HTML BY DIRECTIONAL OVERRIDE
+<bdo>
+
+Monday's work
+comments
+<!--comment-->
+
+colors
+setting up the border and border radius
+background-color:rgb(0,0,0);
+rgba()
+
+CSS 
+- Ways of linking CSS to your HTML file
+
+ASSIGNMETN 
+come up with a website index, home and about
+using quotations, colors, CSS, links and images. Use comments
