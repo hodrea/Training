@@ -1,0 +1,29 @@
+block and inline 
+classeS
+id
+iframes
+
+block
+- 
+
+div
+- Defines a division
+- Free to use in any place thus can be used in any area as long as it is in the body element (Doesn't have any attribute)
+span
+puts elements in a container
+
+style.css
+100vh(View Height)
+
+selector types are
+-id (uniquely used)
+-class (can be shared by other elements)
+
+iframes
+- used to show a website inside another website
+
+ASSIGNMENT
+index home services about
+external css only
+have many images
+have videos iframe
