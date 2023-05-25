@@ -1,0 +1,22 @@
+*{
+	text-align:center;
+	background-color: brown;
+	color:white;
+}
+
+.last{
+	text-align:right;
+}
+
+h1{
+	font-size:60px;
+}
+
+p{
+	font-size: 30px;
+}
+
+form{
+	border:3px dotted white;
+	padding:10px;
+}
