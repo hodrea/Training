@@ -1,0 +1,49 @@
+*{
+	text-align:center;
+}
+
+body{
+	font-size:100%;
+}
+
+div{
+	border:3px solid hsl(0,100%,50%);
+}
+
+h1{
+	font-size:8vw;
+	font-family: 'Bebas Neue', sans-serif;
+	text-shadow:15px 15px 15px rgba(0,0,0,0.5);
+}
+
+h2{
+	font-size:6vw;
+	font-family: 'Cinzel', serif;
+	background-color:#000000;
+	color:rgb(255,255,255);
+}
+
+h3{
+	font-size:4vw;
+	font-family: 'Orbitron', sans-serif;
+	background-color:#000000;
+	color:rgb(255,255,255);
+}
+
+p{
+	font-size: 1.9em;
+	font-family: 'Pacifico', cursive;
+}
+
+p.div1p{
+	font-variant:small-caps;
+	color:#000000;
+}
+
+p.div2p{
+	font-weight:bold;
+}
+
+p.div3p{
+	font-style:italic;
+}
